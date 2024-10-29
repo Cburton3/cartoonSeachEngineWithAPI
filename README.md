@@ -1,0 +1,1 @@
+This project uses async functions using Axios and 'await' to connect to an external api and use its information. 
